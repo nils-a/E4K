@@ -1,2 +1,4 @@
 /out/
 *-backups/
+jlcpcb/
+/src/breakout_board/fp-info-cache
